@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hey there 👋 
+### I'm Taher. 😎
+### I'm a software developer/ web developer learning and making cool and interesting projects 😊 !! 
+
+
+![CatShadeGIF](https://github.com/tahersaraf/tahersaraf/assets/46350346/2d89e3e9-08b8-4dbd-a951-5033d5898787)
+
+
 
 <!--
 **tahersaraf/tahersaraf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
