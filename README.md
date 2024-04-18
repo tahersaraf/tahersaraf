@@ -8,7 +8,7 @@
 
 ### Check out some of my projects below 👇👇
 
-### You can reach me here ➡️ <img src="icons/x.svg">
+### You can reach me here ➡️ <a href="https://twitter.com/LazyTaher"><img src="icons/x.svg"></a>
 
 <!--
 **tahersaraf/tahersaraf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
