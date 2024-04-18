@@ -2,11 +2,11 @@
 
 ### What I'm good at...
 
-<picture><img align="center" src="icons/sql.svg"> <img align="center" src="icons/bash.svg"> <img align="center" src="icons/html.svg"> <img align="center" src="icons/css.svg"> <img align="center" src="icons/javascript.svg"> <img align="center" src="icons/kibana.svg"> <img align="center" src="icons/salesforce.svg"></picture>
+<picture><img align="center" src="icons/sql.svg"></picture> <picture><img align="center" src="icons/bash.svg"></picture> <picture><img align="center" src="icons/html.svg"></picture> <picture><img align="center" src="icons/css.svg"></picture> <picture><img align="center" src="icons/javascript.svg"></picture> <picture><img align="center" src="icons/kibana.svg"></picture> <picture><img align="center" src="icons/salesforce.svg"></picture>
 
 ### What I'm learning...
 
-<picture><img align="center" src="icons/java.svg"> <img align="center" src="icons/python.svg"> <img align="center" src="icons/rust.svg"></picture>
+<picture><img align="center" src="icons/java.svg"></picture> <picture><img align="center" src="icons/python.svg"></picture> <picture><img align="center" src="icons/rust.svg"></picture>
 
 ### You can follow me here (if you like) ➡️ <a href="https://twitter.com/LazyTaher"><img align="center" src="icons/x.svg"></a> <a href="https://www.instagram.com/tahersaraf/"><img align="center" src="icons/instagram.svg"></a> <a href="https://www.linkedin.com/in/taher-s-204800110/"><img align="center" src="icons/linkedin.svg"></a>
 
