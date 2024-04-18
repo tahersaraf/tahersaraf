@@ -4,11 +4,9 @@
 
 ### I’m currently learning web development 🕸️ and also have an interest in indie game development 🎮
 
-<img src="https://github.com/tahersaraf/tahersaraf/assets/46350346/2d89e3e9-08b8-4dbd-a951-5033d5898787" height="50px" width="85px">
-
 ### Check out some of my projects below 👇👇
 
-### You can reach me here ➡️ <a href="https://twitter.com/LazyTaher"><img src="icons/x.svg" height="50px" width="50px"></a>
+### You can reach me here ➡️ <a href="https://twitter.com/LazyTaher"><img align="center" src="icons/x.svg"></a> <a href="https://www.instagram.com/tahersaraf/"><img align="center" src="icons/instagram.svg"></a>
 
 <!--
 **tahersaraf/tahersaraf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
