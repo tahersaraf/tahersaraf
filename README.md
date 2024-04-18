@@ -2,7 +2,11 @@
 
 ### What I'm good at...
 
-<picture><img align="center" src="icons/sql.svg"></picture> <picture><img align="center" src="icons/bash.svg"></picture> <picture><img align="center" src="icons/html.svg"></picture> <picture><img align="center" src="icons/css.svg"></picture> <picture><img align="center" src="icons/javascript.svg"></picture> <picture><img align="center" src="icons/kibana.svg"></picture> <picture><img align="center" src="icons/salesforce.svg"></picture>
+<picture><img align="center" src="icons/sql.svg"></picture> <picture><img align="center" src="icons/bash.svg"></picture> <picture><img align="center" src="icons/html.svg"></picture> <picture><img align="center" src="icons/css.svg"></picture> <picture><img align="center" src="icons/javascript.svg"></picture>
+
+### What I know...
+
+<picture><img align="center" src="icons/kibana.svg"></picture> <picture><img align="center" src="icons/salesforce.svg"></picture>
 
 ### What I'm learning...
 
