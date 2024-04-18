@@ -1,9 +1,8 @@
 ### Hey there 👋 
 ### I'm Taher. 😎
-### I'm a software developer/ web developer learning and making cool and interesting projects 😊 !! 
+#### I’m currently learning web development 🕸️ and also have an interest in indie game development 🎮
 
-
-![CatShadeGIF](https://github.com/tahersaraf/tahersaraf/assets/46350346/2d89e3e9-08b8-4dbd-a951-5033d5898787)
+![CatShadeGIF](https://github.com/tahersaraf/tahersaraf/assets/46350346/2d89e3e9-08b8-4dbd-a951-5033d5898787 =250x250)
 
 
 
