@@ -1,6 +1,6 @@
 ### Hey there 👋 
 ### I'm Taher. 😎
-#### I’m currently learning web development 🕸️ and also have an interest in indie game development 🎮
+### I’m currently learning web development 🕸️ and also have an interest in indie game development 🎮
 
 <img src="https://github.com/tahersaraf/tahersaraf/assets/46350346/2d89e3e9-08b8-4dbd-a951-5033d5898787" height="50px" width="85px">
 
