@@ -1,12 +1,18 @@
-### Hey there 👋
+### Hey there 👋 I'm Taher. 😎
 
-### I'm Taher. 😎
+### What I'm good at...
 
-### I’m currently learning web development 🕸️ and also have an interest in indie game development 🎮
+<img align="center" src="icons/sql.svg"> <img align="center" src="icons/bash.svg"> <img align="center" src="icons/html.svg"> <img align="center" src="icons/css.svg"> <img align="center" src="icons/javascript.svg"> <img align="center" src="icons/kibana.svg"> <img align="center" src="icons/salesforce.svg">
+
+### What I'm learning...
+
+<img align="center" src="icons/java.svg"> <img align="center" src="icons/python.svg"> <img align="center" src="icons/rust.svg">
+
+### You can follow me here (if you like) ➡️ <a href="https://twitter.com/LazyTaher"><img align="center" src="icons/x.svg"></a> <a href="https://www.instagram.com/tahersaraf/"><img align="center" src="icons/instagram.svg"></a> <a href="https://www.linkedin.com/in/taher-s-204800110/"><img align="center" src="icons/linkedin.svg"></a>
+
+### You can contact me here ➡️ <a href="mailto:tahersaraf98@gmail.com"><img align="center" src="icons/x.svg"></a>
 
 ### Check out some of my projects below 👇👇
-
-### You can reach me here ➡️ <a href="https://twitter.com/LazyTaher"><img align="center" src="icons/x.svg"></a> <a href="https://www.instagram.com/tahersaraf/"><img align="center" src="icons/instagram.svg"></a>
 
 <!--
 **tahersaraf/tahersaraf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
