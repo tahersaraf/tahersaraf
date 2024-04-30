@@ -1,6 +1,6 @@
 ### Hey there 👋 I'm Taher. 😎
 
-### What I'm good at...
+<!-- ### What I'm good at...
 
 <picture><img align="center" src="icons/sql.svg"></picture> <picture><img align="center" src="icons/bash.svg"></picture> <picture><img align="center" src="icons/html.svg"></picture> <picture><img align="center" src="icons/css.svg"></picture> <picture><img align="center" src="icons/javascript.svg"></picture>
 
@@ -12,7 +12,7 @@
 
 <picture><img align="center" src="icons/java.svg"></picture> <picture><img align="center" src="icons/python.svg"></picture> <picture><img align="center" src="icons/rust.svg"></picture>
 
-### You can follow me here (if you like) ➡️ <a href="https://twitter.com/LazyTaher"><img align="center" src="icons/x.svg"></a> <a href="https://www.instagram.com/tahersaraf/"><img align="center" src="icons/instagram.svg"></a> <a href="https://www.linkedin.com/in/taher-s-204800110/"><img align="center" src="icons/linkedin.svg"></a>
+### You can follow me here (if you like) ➡️ <a href="https://twitter.com/LazyTaher"><img align="center" src="icons/x.svg"></a> <a href="https://www.instagram.com/tahersaraf/"><img align="center" src="icons/instagram.svg"></a> <a href="https://www.linkedin.com/in/taher-s-204800110/"><img align="center" src="icons/linkedin.svg"></a> -->
 
 ### You can contact me here ➡️ <a href="mailto:tahersaraf98@gmail.com" target="_blank"><img align="center" src="icons/gmail.svg"></a>
 
