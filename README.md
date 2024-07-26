@@ -14,9 +14,9 @@
 
 ### You can follow me here (if you like) ➡️ <a href="https://twitter.com/LazyTaher"><img align="center" src="icons/x.svg"></a> <a href="https://www.instagram.com/tahersaraf/"><img align="center" src="icons/instagram.svg"></a> <a href="https://www.linkedin.com/in/taher-s-204800110/"><img align="center" src="icons/linkedin.svg"></a> 
 
-### You can contact me here ➡️ <a href="mailto:tahersaraf98@gmail.com" target="_blank"><img align="center" src="icons/gmail.svg"></a> -->
+### You can contact me here ➡️ <a href="mailto:tahersaraf98@gmail.com" target="_blank"><img align="center" src="icons/gmail.svg"></a> 
 
-### Check out some of my projects below 👇👇
+### Check out some of my projects below 👇👇 -->
 
 <!--
 **tahersaraf/tahersaraf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
